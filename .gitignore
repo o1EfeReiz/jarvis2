@@ -6,3 +6,10 @@ voice_*.mp3
 backups/
 *.log
 jarvis_log.txt
+_audit_jarvis_zip/
+jarvis2_github_upload/
+jarvis2_github_upload.zip
+jarvis_memory.json
+plans.json
+lol_assistant.json
+coords.json

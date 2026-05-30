@@ -1,9 +1,0 @@
-﻿.env
-.venv/
-__pycache__/
-*.pyc
-voice_*.mp3
-jarvis_log.txt
-jarvis_memory.json
-backups/
-_audit_jarvis_zip/
