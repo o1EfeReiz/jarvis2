@@ -1,0 +1,41 @@
+╔══════════════════════════════════════════════════════════════╗
+║                    ÖNEMLİ BİLGİLENDİRME                     ║
+╚══════════════════════════════════════════════════════════════╝
+
+  JARVIS şu an yalnızca macOS üzerinde çalışmaktadır.
+
+  Windows desteği bu hafta sonuna kadar eklenecek olup
+  güncel sürüm aynı bağlantıdan paylaşılacaktır.
+
+──────────────────────────────────────────
+  WINDOWS KULLANICILARI İÇİN
+──────────────────────────────────────────
+
+  Beklemek istemiyorsanız Windows versiyonunu kendiniz
+  geliştirebilirsiniz.
+
+  Bunun için OpenAI'ın Codex aracını kullanabilirsiniz:
+  → https://chatgpt.com/codex
+
+  Yapmanız gereken:
+
+  1. Codex'i açın
+  2. Bu zip dosyasını projeye yükleyin
+  3. Şu isteği yazın:
+
+     "Bu macOS'a özel bir JARVIS projesi.
+      Tüm macOS bağımlılıklarını (subprocess open,
+      osascript, AppleScript vb.) Windows'a uygun
+      hale getir. PyAutoGUI, winreg veya
+      Windows API çağrılarını kullanabilirsin."
+
+  4. Üretilen kodu çalıştırın ve eksikleri düzeltin.
+
+──────────────────────────────────────────
+  NOT
+──────────────────────────────────────────
+
+  Geliştirdiğiniz Windows versiyonunu paylaşırsanız
+  projeye katkı olarak eklenebilir.
+
+──────────────────────────────────────────

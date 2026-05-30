@@ -1,0 +1,8 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.env
+voice_*.mp3
+backups/
+*.log
+jarvis_log.txt

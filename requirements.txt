@@ -1,0 +1,19 @@
+# Bu proje icin Python 3.12 onerilir.
+# Python 3.14 cok yeni oldugu icin pygame / pyaudio gibi paketler hata verebilir.
+PyQt6
+python-dotenv
+openai
+SpeechRecognition
+edge-tts
+pygame
+pyautogui>=0.9.54
+Pillow>=10.0.0
+pyscreeze
+pypdf
+openwakeword
+pyaudio
+numpy
+psutil
+pygetwindow
+pyperclip
+watchdog>=3.0.0
